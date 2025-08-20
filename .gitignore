@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data files
+*.db
+*.sqlite3
+
+# Environment files
+.env
+
+# Other
+*.log
